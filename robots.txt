@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwogeaka.github.io/DTd/sitemap_index.txt
+Sitemap: https://iwogeaka.github.io/GYO/sitemap_index.txt
+Sitemap: https://iwogeaka.github.io/KyZ/sitemap_index.txt
+Sitemap: https://iwogeaka.github.io/XUK/sitemap_index.txt
